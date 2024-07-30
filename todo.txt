@@ -1,0 +1,2 @@
+1) make pipes move left according to speed (level)
+2) make new pipes refresh at random
