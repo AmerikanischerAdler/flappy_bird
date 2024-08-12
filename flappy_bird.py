@@ -3,7 +3,7 @@
 ################################
 # CREDITS:
 # AmerikanisherAdler 
-# Liam (my brother)
+# Rugmonkey09
 ################################
 
 import threading
