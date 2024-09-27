@@ -1,2 +1,6 @@
 1) make pipes move left according to speed (level)
 2) make new pipes refresh at random
+
+use var = random_pipe_top
+var = random_pipe_bottom
+and then apply this var to the class in each loop so that you can shift each element left every so many second (start new thread) without needing to know what the random numbers are on top and bottom are
